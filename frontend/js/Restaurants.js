@@ -2,15 +2,19 @@ async function fetchRestaurants(searchTerm = "") {
   try {
       const response = await fetch("http://localhost:3000/restaurants");
       const data = await response.json();
-
+      
+      // First filter the restaurants if there's a search term
       const filtered = searchTerm
           ? data.filter(r =>
-              r.nom.toLowerCase().includes(searchTerm) ||
-              r.specialite.toLowerCase().includes(searchTerm)
+              r.nom.toLowerCase().includes(searchTerm.toLowerCase()) ||
+              r.specialite.toLowerCase().includes(searchTerm.toLowerCase())
           )
           : data;
-
-      renderRestaurants(filtered);
+      
+      // Sort the filtered restaurants by notation (rating) in descending order
+      const sortedRestaurants = filtered.sort((a, b) => b.notation - a.notation);
+      
+      renderRestaurants(sortedRestaurants);
   } catch (error) {
       console.error("Error fetching restaurants:", error);
   }
@@ -19,7 +23,7 @@ async function fetchRestaurants(searchTerm = "") {
 function renderRestaurants(restaurants) {
   const container = document.getElementById("restaurantList");
   container.innerHTML = "";
-
+  
   restaurants.forEach(restaurant => {
       const div = document.createElement("div");
       div.classList.add("restaurant-card");
@@ -44,6 +48,15 @@ function searchRestaurants() {
   fetchRestaurants(searchTerm);
 }
 
+function createStarRating(note) {
+  const filledWidth = (note / 5) * 100;
+  return `
+      <div class="stars">
+          <div class="filled" style="width: ${filledWidth}%;">★★★★★</div>
+      </div>
+  `;
+}
+
 document.getElementById("searchButton").addEventListener("click", searchRestaurants);
 document.getElementById("clearButton").addEventListener("click", () => {
   document.getElementById("search").value = "";
@@ -51,12 +64,3 @@ document.getElementById("clearButton").addEventListener("click", () => {
 });
 
 fetchRestaurants();
-
-function createStarRating(note) {
-  const filledWidth = (note / 5) * 100; // Percentage of filled stars
-  return `
-      <div class="stars">
-          <div class="filled" style="width: ${filledWidth}%;">★★★★★</div>
-      </div>
-  `;
-}
