@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Explore the best restaurants in Tangier with detailed guides and reviews.">
+        <title>Restaurant Details</title>
+        <link rel="icon" href="./img/tan__1_-removebg-preview.png" type="image/x-icon">
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+      </head>
+<body>
+  <section class="hero-section">
+    <div class="hero-overlay"></div>
+    
+    <header class="header">
+        <div class="logo">
+            <a href="/frontend/"><img href="/" src="./img/tan__1_-removebg-preview.png" alt="Restaurant Logo"></a>
+        </div>
+        <nav>
+            <a href="/frontend/">Home</a>
+            <a href="/frontend/restaurants.html">Restaurants</a>
+            <a href="/frontend/#city-tour">City Tour</a>
+            <a href="">About</a>
+            <a href="#footer">Contact us</a>
+          </nav>
+        <div class="search-container">
+            <input 
+                type="text"
+                id="search"
+                class="search-input" 
+                placeholder="Search restaurants in Tangier"
+            >
+            <button id="searchButton">Search</button>
+            <button id="clearButton">Clear</button>
+        </div>
+    </header>
+
+    <div class="hero-content">
+        <h1>Discover Tangier's Culinary Delights</h1>
+        <p>Explore the rich and vibrant food scene of Tangier, where traditional Moroccan cuisine meets modern gastronomy</p>
+    </div>
+</section>
+
+<section class="introudction-section">
+        <h4>Your Dream Vacation Destination</h4>
+        <h3>Plan the Perfect <br> Getaway</h3>
+        <p> Whether you're seeking a romantic retreat, a family adventure, or a solo <br>
+        exploration, our restaurant offers a unique experience that will leave you with <br>
+        unforgettable memories.</p>
+        <a href="" class="btn">More Info</a>
+        <img src="./img/arhihou-anas-Kn6isYSQaqs-unsplash.jpg" alt="">
+</section>
+
+<main id="restaurantList" class="details-container">
+    
+</main>
+<div class="button-container" id="button-container">
+    <a href="/frontend/restaurants.html" class="more-content">
+        <span class="circle" aria-hidden="true">
+            <span class="icon arrow"></span>
+        </span>
+        <span class="button-text">Learn More</span>
+    </a>
+</div>
+
+<section id="city-tour" class="city-tour">
+    <h1>Tangier Tour</h1>
+    <iframe 
+        src="https://www.youtube.com/embed/qGYFBPdj8Jk?controls=0&modestbranding=1&showinfo=0&rel=0&iv_load_policy=3"
+        title="YouTube video player"
+        width="560"
+        height="315"
+        frameborder="0"
+        allowfullscreen>
+    </iframe>
+</section>
+<footer id="footer" class="site-footer">
+  <div class="footer-content">
+      <div class="footer-section about">
+            <img src="./img/tan__1_-removebg-preview.png" alt="">
+          <p>Travel beyond your <br>
+            imagination, with our <br>
+            Travel Agency!</p>
+      </div>
+      <div class="footer-section contact">
+          <h3>Contact Us</h3>
+          <p><i class="fas fa-map-marker-alt"></i> Tangier, Morocco</p>
+          <p><i class="fas fa-envelope"></i> info@tangierrestaurants.com</p>
+          <p><i class="fas fa-phone"></i> +212 5XX XX XX XX</p>
+      </div>
+      <div class="footer-section social">
+          <h3>Follow Us</h3>
+          <div class="social-icons">
+              <a href="#" class="social-icon"><i class="fab fa-facebook"></i></a>
+              <a href="#" class="social-icon"><i class="fab fa-instagram"></i></a>
+              <a href="#" class="social-icon"><i class="fab fa-twitter"></i></a>
+          </div>
+      </div>
+  </div>
+  <div class="footer-bottom">
+      <p>&copy; <span id="year"></span> Tangier Restaurant Guide. All Rights Reserved.</p>
+<script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+</script>
+
+  </div>
+</footer>
+  <script src="js/script.js"></script>
+</body>
+</html>

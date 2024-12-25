@@ -1,0 +1,200 @@
+[
+  {
+    "id": 2,
+    "nom": "Crumby",
+    "specialite": "Cafe, International, Contemporary, Fusion, Healthy",
+    "adresse": "Boulevard Mohamed VI, Tangier",
+    "notation": 5,
+    "Phone": "+212 5393-34973",
+    "Email": "imad@Crumby.ma",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3236.67139009076!2d-5.822982624697087!3d35.78344762435299!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd0c7953368a0387%3A0x8c45bb741feebf9e!2sCrumby!5e0!3m2!1sen!2sma!4v1734785317553!5m2!1sen!2sma",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/4c/47/6d/located-not-far-from.jpg?w=900&h=500&s=1"
+  },
+  {
+    "id": 3,
+    "nom": "Le Mirage",
+    "specialite": "Luxury Seafood",
+    "adresse": "Route de Cap Spartel, Tangier",
+    "notation": 4.7,
+    "Phone": "+212 5393-12345",
+    "Email": "info@lemirage.ma",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3236.494134468515!2d-5.8660541!3d35.7878007!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd0c79e9566c04ab%3A0x47d83f619cc50a20!2sCaf%C3%A9%20Le%20Mirage!5e0!3m2!1sen!2sma!4v1734785059004!5m2!1sen!2sma",
+    "image": "https://scontent.frba3-2.fna.fbcdn.net/v/t1.6435-9/71061500_2400517006826676_107908682490052608_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=3NWHt9y9iIsQ7kNvgF1JAqL&_nc_zt=23&_nc_ht=scontent.frba3-2.fna&_nc_gid=A1SGjbtUxT0LllzyZrW8DEY&oh=00_AYBm6qG82eWo6BgIuAfNhx3tPnJKNi5xQmEaSPZcM5_0fA&oe=6788F119"
+  },
+  {
+    "id": 4,
+    "nom": "El Morocco Club",
+    "specialite": "Mediterranean & Moroccan",
+    "adresse": "Place du Tabor, Kasbah, Tangier",
+    "notation": 4.5,
+    "Phone": "+212 5393-67890",
+    "Email": "contact@elmoroccoclub.com",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3236.454221604379!2d-5.817105424696818!3d35.78878082405938!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd0c78b327e25521%3A0xcc17ebad8b411d8!2sEl%20Morocco%20Club!5e0!3m2!1sen!2sma!4v1734785431465!5m2!1sen!2sma",
+    "image": "https://cdn-fnbga.nitrocdn.com/tAUlWYyReWTSQTSbTBayZSCXnamUPFKB/assets/images/optimized/rev-3568e79/www.purlife-maroc.com/wp-content/uploads/2022/02/El-Marocco-Club-Tanger-Pur-Life-Maroc-7.jpg"
+  },
+  {
+    "id": 5,
+    "nom": "Saveur de Poisson",
+    "specialite": "Authentic Moroccan Seafood",
+    "adresse": "Rue Amrah, Medina, Tangier",
+    "notation": 4.9,
+    "Phone": "+212 5393-23456",
+    "Email": "saveurpoisson@ma",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3236.709098126304!2d-5.815071024697155!3d35.78252152440401!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd0c7f531a07f51f%3A0x79b9d09c9bfcf17a!2sRestaurant%20Saveur%20de%20Poisson!5e0!3m2!1sen!2sma!4v1734785472880!5m2!1sen!2sma",
+    "image": "https://media.cntraveler.com/photos/57eeb208964452525af6cc5a/16:9/w_1920,c_limit/Storefront-LeSaveurduPoisson-TangierMarrakech-CRRestaurant.jpg"
+  },
+  {
+    "id": 6,
+    "nom": "Anna & Paolo",
+    "specialite": "Italian Cuisine",
+    "adresse": "Quartier Malabata, Tangier",
+    "notation": 4.6,
+    "Phone": "+212 5393-34567",
+    "Email": "anna.paolo@ma",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3236.929095702093!2d-5.813909324697338!3d35.77711802470137!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd0c7f5513391acd%3A0xe8a8204870aef0bf!2sAnna%20e%20Paolo!5e0!3m2!1sen!2sma!4v1734785549112!5m2!1sen!2sma",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/90/29/0a/photo3jpg.jpg?w=900&h=500&s=1"
+  },
+  {
+    "id": 7,
+    "nom": "Restaurant Ahlen",
+    "specialite": "Traditional Moroccan Cuisine",
+    "adresse": "Rue Mexique, Medina, Tangier",
+    "notation": 4.3,
+    "Phone": "+212 5393-45678",
+    "Email": "ahlen@ma",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3236.5963664600786!2d-5.812450224696964!3d35.78529012425156!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd0c7f520e264dd5%3A0x254b518bade59afe!2sRestaurant%20Ahlen!5e0!3m2!1sen!2sma!4v1734785596263!5m2!1sen!2sma",
+    "image": "https://scontent.frba3-1.fna.fbcdn.net/v/t1.6435-9/84474124_3003980502946838_4914071567404630016_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=V7r6DpQaZ5cQ7kNvgEaLSHN&_nc_zt=23&_nc_ht=scontent.frba3-1.fna&_nc_gid=AL3tm42e0B3tGMgp8Xmk8bh&oh=00_AYDo-vy_T1clhNaI_mgWm8oHCaBxWT7ICPnNE55iu0HgjQ&oe=6788FC88"
+  },
+  {
+    "id": 8,
+    "nom": "El Tangerino",
+    "specialite": "Spanish Tapas & Seafood",
+    "adresse": "Boulevard Mohamed VI, Tangier",
+    "notation": 4.4,
+    "Phone": "+212 5393-56789",
+    "Email": "contact@eltangerino.com",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3236.9228841607896!2d-5.798589499999999!3d35.7772706!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd0c7f58c944478f%3A0x4d91410ed8a18814!2sEl%20Tangerino!5e0!3m2!1sen!2sma!4v1734941445098!5m2!1sen!2sma",
+    "image": "https://teratlas.ma/wp-content/uploads/2023/12/ff38b43079494ae79adae3b5ad347f4e.jpg"
+  },
+  {
+    "id": 10,
+    "nom": "Le Nabab",
+    "specialite": "Moroccan Fine Dining",
+    "adresse": "Place de la Kasbah, Tangier",
+    "notation": 4.5,
+    "Phone": "+212 5393-67890",
+    "Email": "contact@lenabab.com",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3236.5045052899486!2d-5.813870424082164!3d35.78754602412644!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd0c7f4da3b7c5f9%3A0x45802df1ea145ebb!2sLe%20Nabab!5e0!3m2!1sen!2sma!4v1734941499402!5m2!1sen!2sma",
+    "image": "https://img.restaurantguru.com/c2ed-Le-Nabab-Tangier-view.jpg"
+  },
+  {
+    "id": 11,
+    "nom": "Cappuccino",
+    "specialite": "Coffee & Desserts",
+    "adresse": "Malabata, Tangier",
+    "notation": 4,
+    "Phone": "+212 5393-78901",
+    "Email": "cappuccino@ma",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3236.659882100643!2d-5.766137714088105!3d35.78373025358416!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd0c7f8f599d9c79%3A0x4eabac8811b3dc51!2sCappuccino!5e0!3m2!1sen!2sma!4v1734941567426!5m2!1sen!2sma",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/09/f5/f2/33/cefe-cappuccino.jpg"
+  },
+  {
+    "id": 12,
+    "nom": "Café Hafa",
+    "specialite": "Mint Tea & Snacks",
+    "adresse": "Quartier Marshan, Tangier",
+    "notation": 4.3,
+    "Phone": "+212 5393-89012",
+    "Email": "info@cafehafa.com",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3236.347561299417!2d-5.824428924081982!3d35.79139992391396!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd0c78b6d7a530cd%3A0xa3cf4c731aed4b79!2sCaf%C3%A9%20Hafa!5e0!3m2!1sen!2sma!4v1734941616318!5m2!1sen!2sma",
+    "image": "https://www.tanger-experience.com/wp-content/uploads/2023/04/whahington-Poste-Cafe-Hafa-7541-750x350.jpg"
+  },
+  {
+    "id": 13,
+    "nom": "RR-Ice",
+    "specialite": "Ice Cream & Coffee",
+    "adresse": "Corniche de Tanger, Tangier",
+    "notation": 4.4,
+    "Phone": "+212 5393-90123",
+    "Email": "rrice@ma",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3236.474065677699!2d-5.762532924082095!3d35.78829352408506!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd0c7f8fe148635f%3A0x8816194918aabe7a!2sRR%20Ice!5e0!3m2!1sen!2sma!4v1734942098889!5m2!1sen!2sma",
+    "image": "https://pbs.twimg.com/media/Ea3ttG2XQAA6TW0?format=jpg&name=small"
+  },
+  {
+    "id": 14,
+    "nom": "Villa Josephine",
+    "specialite": "Afternoon Tea",
+    "adresse": "Mountain of Tangier",
+    "notation": 4.7,
+    "Phone": "+212 5393-12345",
+    "Email": "villa_josephine@ma",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3236.236805145442!2d-5.842393424081875!3d35.79411942376428!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd0c78bfb09c7051%3A0xfbe21637c143c0a3!2sVilla%20Josephine!5e0!3m2!1sen!2sma!4v1734942169948!5m2!1sen!2sma",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/e7/5b/57/caption.jpg?w=1200&h=-1&s=1"
+  },
+  {
+    "id": 15,
+    "nom": "Café Paris",
+    "specialite": "Classic Café",
+    "adresse": "Place de France, Tangier",
+    "notation": 4.1,
+    "Phone": "+212 5393-23456",
+    "Email": "cafeparis@ma",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3236.766070662419!2d-5.81743491408884!3d35.78112225372983!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd0c7f536f7d7997%3A0xd047f7ae5da2379e!2sGran%20Caf%C3%A9%20de%20Paris!5e0!3m2!1sen!2sma!4v1734942230350!5m2!1sen!2sma",
+    "image": "https://www.nomadicbackpacker.com/uploads/9/9/5/9/9959097/le-gran-cafe-de-paris-tangiers-morocco_1.jpg"
+  },
+  {
+    "id": 16,
+    "nom": "Omega-3",
+    "specialite": "Seafood, Mediterranean, Healthy",
+    "adresse": "Av. des Gironfliers, Tangier 90100 Morocco",
+    "notation": 4,
+    "Phone": "+212 662-165644",
+    "Email": "contact@omega3tanger.com",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3237.661384226952!2d-5.840100974083229!3d35.75912672569091!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd0b8769a3eb5cf5%3A0xea89828fe0bd9763!2sOmega%203%20Restaurant!5e0!3m2!1sen!2sma!4v1734942271627!5m2!1sen!2sma",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/1f/e8/c5/welcome.jpg?w=900&h=500&s=1"
+  },
+  {
+    "id": 17,
+    "nom": "La Véranda",
+    "specialite": "International Cuisine",
+    "adresse": "Rue de la Plage, Tangier",
+    "notation": 4.4,
+    "Phone": "+212 5393-45678",
+    "Email": "verandalounge@ma",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3236.9716099116017!2d-5.787354124082561!3d35.77607372475799!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd0b809d13b509f3%3A0x1b68fd71480af447!2sLa%20Veranda!5e0!3m2!1sen!2sma!4v1734942308569!5m2!1sen!2sma",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipOOL-QP1_0Uz0hHtajytCoRLO_EJKf1A1hMQH0S=s680-w680-h510"
+  },
+  {
+    "id": 18,
+    "nom": "Barcelo Café",
+    "specialite": "Coffee & Pastries",
+    "adresse": "Hôtel Barcelo, Tangier",
+    "notation": 4.3,
+    "Phone": "+212 5393-56789",
+    "Email": "barcelocafe@ma",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12949.644851389088!2d-5.822978990019972!3d35.76527396660532!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd0b80a4edbb3f6b%3A0xfb49fad00d098f5c!2sBarcel%C3%B3%20Tanger!5e0!3m2!1sen!2sma!4v1734942389664!5m2!1sen!2sma",
+    "image": "https://cdn-fnbga.nitrocdn.com/tAUlWYyReWTSQTSbTBayZSCXnamUPFKB/assets/images/optimized/rev-3568e79/www.purlife-maroc.com/wp-content/uploads/2024/02/Pure-Life-Maroc-Barcelo-Tanger-1000x1000-3-21-800x480.jpg"
+  },
+  {
+    "id": 19,
+    "nom": "Café Tangerina",
+    "specialite": "Coffee & Snacks",
+    "adresse": "Kasbah, Tangier",
+    "notation": 4.2,
+    "Phone": "+212 5393-67890",
+    "Email": "cafe.tangerina@ma",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3238.3996867188353!2d-5.831056324083862!3d35.74097972668926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd0b87003c95de5d%3A0xa10a80aef92043cc!2sCaf%C3%A9%20Tangerina!5e0!3m2!1sen!2sma!4v1734942435444!5m2!1sen!2sma",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/d6/2e/d0/cafe-tingis.jpg?w=900&h=500&s=1"
+  },
+  {
+    "id": 20,
+    "nom": "Dar Nour",
+    "specialite": "Moroccan & Mediterranean",
+    "adresse": "Kasbah, Tangier",
+    "notation": 4.6,
+    "Phone": "+212 5393-78901",
+    "Email": "dar.nour@ma",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3236.487503969083!2d-5.816571424082153!3d35.78796352410333!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd0c7f538123ddbb%3A0x7da463bbf3484c2b!2sDar%20Nour!5e0!3m2!1sen!2sma!4v1734942492709!5m2!1sen!2sma",
+    "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/507434372.jpg?k=8914e05c8ff0f9997f508c07fcb9f4417afb86a07e0d490cbe3daed20e949a61&o=&hp=1"
+  }
+]
